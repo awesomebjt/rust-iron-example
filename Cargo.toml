@@ -1,0 +1,9 @@
+[package]
+name = "example_spa"
+version = "0.1.0"
+authors = ["Ben Thompson <bthomps5@nd.edu>"]
+
+[dependencies]
+iron = "0.2.6"
+router = "0.1.1"
+rustc-serialize = "0.3.16"
